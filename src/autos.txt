@@ -1,0 +1,2 @@
+josset a;verde;NO PROCESADO;00ijad1;Turismo;
+mariana;azul;NO PROCESADO;0923mth;Bus;

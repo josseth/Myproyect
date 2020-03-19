@@ -1,0 +1,5 @@
+SOLO DIAGNOSTICO;1000;Instante;00000;
+falla de caja de cambios;1300;2 Dias;00123;
+falla de carburador;1500;1 Dias;00124;
+falla de alternador;1100;12 Hr;00125;
+falla de radiador;1700;3 Dias;00126;
